@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    box-sizing: border-box;
+}
+header{
+    margin-left: 4rem;
+}
+header h1{
+    text-align: center;
+}
+hr{
+    width: 90%;
+}
+main h2{
+    background-color: #ccc;
+    border: 1px solid #000;
+    padding: 3px;
+    display: inline-block;
+}
+main{
+    margin-left: 4rem;
+}
+.education table{
+    border: 1px solid #000;
+}
+table td{
+    text-align: center;
+    border: 1px solid #000;
+    padding: 1rem;
+}
+.language{
+    margin-top: 2rem;
+}
+.language li{
+    margin-top: 1rem;
+}
+.language span{
+    margin-left: 3rem;
+}
+.skills li{
+    margin-left: 1rem;
+    padding: 0.5rem 0;
+}
+.tash a{
+    margin-left: 1em;
+    padding: 5px;
+    color: blue;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tash li{
+    padding: 0;
+}
+.bio{
+    display: flex;
+}
+.bio-data li{
+    display: flex;
+    justify-content: space-between;
+}
+.bio li{
+    padding: 1em;
+}
+.ft-colon{
+    padding-left: 5rem;
+}
+.fname{
+    margin-left: 2rem;
+}
+.colon2{
+    margin-left: -1rem;
+}
+footer{
+    margin-left: 4rem;
+}
+footer h2{
+    text-align: center;
+    text-decoration: underline;
+}
+footer li{
+    list-style: none;
+}
+.name h2{
+    text-decoration: none;
+}
+footer span{
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
